@@ -10,9 +10,9 @@
   5. jika di program diatasm salah lebih besar c
   ```
  ## flowchart <p>
-  ![flowchart](https://user-images.githubusercontent.com/92736847/141786857-3a115c00-c041-4db6-91c1-a20ac1502e4e.png)
+  ![1](ss/1.png)
 
 ## Hasilnya
- ![py](https://user-images.githubusercontent.com/92736847/141786874-39f26854-0cf7-4bc2-8a50-b4559516c68e.png)
+ ![2](ss/2.png)
 
 SELESAI <p>
